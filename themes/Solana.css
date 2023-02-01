@@ -1791,9 +1791,9 @@ code {
     flex-wrap: wrap;
     width: 80%;
     height: 10%;
-    min-height: 30px;
+    min-height: 15px;
     max-width: 90vh;
-    max-height: 6vh;
+    max-height: 5vh;
     bottom: 4%;
     padding-bottom: 14px;
     margin: 0 auto;
@@ -1811,7 +1811,7 @@ code {
     justify-content: space-between;
     width: calc(100% - 24px);
     left: 8px;
-    margin-top: 42px;
+    margin-top: 36px;
 }
 
 .videoControls-2NzHnF .durationTimeSeparator-1Cqi9N {
